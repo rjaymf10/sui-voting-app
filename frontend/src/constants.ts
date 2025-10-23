@@ -1,0 +1,1 @@
+export const TESTNEST_PACKAGE_ID = import.meta.env.VITE_TESTNEST_PACKAGE_ID;
